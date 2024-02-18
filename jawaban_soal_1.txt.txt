@@ -1,0 +1,3 @@
+Merge conflict terjadi saat gagal dilakukan penggabungan (merge) antara cabang-cabang (branch). Hal ini dikarenakan perubahan yang dilakukan di line atau file yang sama membuat git bingung harus menyimpan perubahan yang mana, apalagi jika perubahan itu sangat berkontradiksi. 
+
+Hal yang dapat dilakukan untuk mengatasi merge conflict adalah dengan melakukan pull request file terupdate terlebih dahulu, memperbaiki atau melakukan perubahan di local repository, kemudian melakukan push kembali ke remote repository yang dibagikan.
