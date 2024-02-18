@@ -1,0 +1,3 @@
+Fork adalah tindakan mengcopy suatu git repository (mungkin dimiliki oleh orang lain) ke local repository milik sendiri. Fork tidak akan mengubah git repository original tersebut ketika kita mengadakan changes ke local repository kita tersebut.
+
+Pull request adalah tindakan meminta suatu repository untuk menerima changes yang telah kita buat di local repository ke dalam repository yang kita request tersebut. Sehingga, nantinya akan ada merge changes local repository ke repository tujuan request.
