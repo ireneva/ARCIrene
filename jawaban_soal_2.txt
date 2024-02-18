@@ -1,0 +1,1 @@
+Git rebase adalah command yang hampir mirip dengan merge, yaitu digunakan untuk menyatukan perubahan yang dilakukan di branches. Sementara merge tetap mempertahankan branches perubahan yang sudah ada di history, rebase dapat menyatukan branches dan seakan membuat history baru yang lebih clean dan simple dibandingkan history changes sebelumnya.
